@@ -5,6 +5,7 @@
     "@hotwired/stimulus": "^3.0.1",
     "@hotwired/turbo-rails": "^7.1.0",
     "autoprefixer": "^10.4.0",
+    "el-transition": "^0.0.7",
     "esbuild": "^0.14.2",
     "postcss": "^8.4.4",
     "postcss-flexbugs-fixes": "^5.0.2",
